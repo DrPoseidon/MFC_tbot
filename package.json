@@ -1,0 +1,14 @@
+{
+  "name": "MFC_bot",
+  "version": "1.0.0",
+  "description": "Data hackathon 2021",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "dev": "nodemon index"
+  }
+}
